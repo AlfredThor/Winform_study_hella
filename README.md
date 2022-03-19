@@ -1,2 +1,4 @@
 # Winform_study_hella
-Self study notes of c# WinForm programming
+
+> 这是一个学习C#窗体程序的笔记和代码库
+
